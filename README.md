@@ -51,7 +51,7 @@ payant.clients.add({
 				first_name: "Subomi",
 				last_name: "Oluwalana",
 				email: "subomi.oluwalana@yahoo.com",
-				phone: "2348077886076"
+				phone: "+2348077886076"
 			}
 		}, (error, data) => {
 			if(!error) {
